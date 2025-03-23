@@ -1,0 +1,48 @@
+body   {
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    margin: auto;
+    padding: 20px;
+    
+}
+
+.container1 {
+    background-color: white;
+    padding: 20px;
+    margin: auto;    
+    width: 90%;
+    box-shadow: 10px 10px 10px;
+
+}
+
+h3 {
+    color: white;
+    margin: 2% auto 2% auto;
+    width: 90%;
+    text-align: center;
+
+}
+
+h1,h2 {
+    color: black;
+    text-align: center ;
+    margin: auto;
+
+}
+
+p {
+    background-color: white;
+    padding: 20px;
+    margin: 2% auto 2% auto;    
+    width: 90%;
+    text-align: center;
+    box-shadow: 10px 10px 10px;
+}
+
+.img {
+
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center;
+
+}
